@@ -1,8 +1,6 @@
 [
   {
-    "text": "E tudo se torna difícil, quando
-as palavras querem tomar lugar das atitudes.Tenha coragem, demonstre,
-palavras voam ao vento, e atitudes, marcam por uma vida toda, o momento. Jh",
+    "text": "Tudo se torna difícil quando as palavras tentam tomar o lugar das atitudes. Tenha coragem! demonstre. Palavras voam ao vento, atitudes marcam uma vida toda.",
     "author": "João Henrique"
   },
   {
