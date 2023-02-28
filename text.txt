@@ -1,7 +1,9 @@
 [
   {
-    "text": "Testando 1.2.3.",
-    "author": "Thomas Edison"
+    "text": "E tudo se torna difícil, quando
+as palavras querem tomar lugar das atitudes.Tenha coragem, demonstre,
+palavras voam ao vento, e atitudes, marcam por uma vida toda, o momento. Jh",
+    "author": "João Henrique"
   },
   {
     "text": "You can observe a lot just by watching.",
