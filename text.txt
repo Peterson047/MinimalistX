@@ -18,5 +18,13 @@
     {
     "text": "Onde estou, para aonde vou, quero que esteja comigo, pois difícil é imaginar você longe de mim nessa história, neste meu caminho. Onde estou, para aonde vou, quero sentir o seu abraço, onde me acalmo, onde sinto toda a segurança, mas sem você o que faço. Sentir-me-ia perdido, faminto da sua presença, sem o brilho dos seus olhos a guiar-me, sem uma esperança, de onde estou, e onde chegar. Difícil de entender, difícil de lidar, nesta situação como me expressar, como sinto paz ao ver o seu sorriso, ver esse seu brilho, que por onde passa, deixa marcas, deixa risos.🍃",
     "author": "JH"
+  },
+    {
+    "text": "A verdade é uma só, quando eu ti, vi, apaixonei-me, e o seu sorriso na minha mente sabei de cor. Sorriso este que me impressiona, que me encanta, que quando lhe vejo perco o ar, chega até secar a minha garganta. De que adianta, se você não está aqui com a sua presença, para me abraçar, aquecer-me, trazer-me segurança. Acalma-me, sussurra com a sua voz nos meus ouvidos, até estremecer a minha alma. Tira-me desta prisão de sentimentos, vem fala-me qual o melhor momento, para um dia sentir você de perto, o que fazer para ter esse indescritível afeto. Vem ensinar-me qual o dialeto, qual caminho chegar mais perto, pois a cada distância, uma lembrança, uma esperança, de ver esse seu sorriso, de uma linda menina, uma eterna criança.🍃",
+    "author": "JH"
+  },
+    {
+    "text": "E na madruga recordo-me de ti, recordo-me dos risos, a sua voz doce diante da ligação. O qual aquece o meu coração e com o teu jeito meigo, fez com que a paixão pegasse-me de jeito. Pego-me pensando nos teus lábios, no seu sorriso de canto, no brilho dos seus olhos, o qual eu me desmancho Brilho esse que ofusca a minha face, o qual me desperta uma vontade de ouvir da sua boca, seus lábios, venha-me abrace. Eu já não consigo se quer me deitar sem pensar, o que voce escolheria para me desabar, um abraço, fazer-me sentir o seu cheiro, o qual desperta em mim um surreal desejo. Então venha saciar-me, com sua presença, sua voz mansa, venha encher-me de esperanças, de ter a tua alma, seu interior. Venha, mais venha de pressa libertar-me desta angústia, desta dor.🍃",
+    "author": "JH"
   }
 ]
