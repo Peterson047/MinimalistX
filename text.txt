@@ -4,7 +4,7 @@
     "author": "João Henrique"
   },
   {
-    "text": "You can observe a lot just by watching.",
+    "text": "Um dia de dor vale muitos dias de Glórias. Viver com Cristo é alegria, morrer com ele é lucro!",
     "author": "Yogi Berra"
   }
 ]
