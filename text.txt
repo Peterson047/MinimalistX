@@ -5,6 +5,6 @@
   },
   {
     "text": "Um dia de dor vale muitos dias de Glórias. Viver com Cristo é alegria, morrer com ele é lucro!",
-    "author": "Yogi Berra"
+    "author": "João H"
   }
 ]
