@@ -6,5 +6,10 @@
   {
     "text": "Um dia de dor vale muitos dias de Glórias. Viver com Cristo é alegria, morrer com ele é lucro!",
     "author": "João H"
+  },
+  {
+    "text": "Tentei procurar, em todo rosto, em todos os lugares possíveis neste mundo, na ilusão de encontrar, uma face tão meiga, um sorriso tão singelo igual ao seu que me fizesse por você se desapaixonar. Porém, exausto, cansado, já imaginando coisas, ouvi uma voz mansa a falar-me, essa minha o meu filho, é única, igual, jamais irá encontrar. Jh🍃
+",
+    "author": "João H"
   }
 ]
