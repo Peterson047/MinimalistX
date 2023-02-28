@@ -1,14 +1,22 @@
 [
   {
     "text": "Tudo se torna difícil quando as palavras tentam tomar o lugar das atitudes. Tenha coragem! demonstre. Palavras voam ao vento, atitudes marcam uma vida toda.🍃",
-    "author": "João Henrique"
+    "author": "JH"
   },
   {
     "text": "Um dia de dor vale muitos dias de Glórias. Viver com Cristo é alegria, morrer com ele é lucro!🍃",
-    "author": "João H"
+    "author": "JH"
   },
   {
     "text": "Tentei procurar, em todo rosto, em todos os lugares possíveis neste mundo, na ilusão de encontrar, uma face tão meiga, um sorriso tão singelo igual ao seu que me fizesse por você se desapaixonar. Porém, exausto, cansado, já imaginando coisas, ouvi uma voz mansa a falar-me, essa minha o meu filho, é única, igual, jamais irá encontrar.🍃",
-    "author": "João H"
+    "author": "JH"
+  },
+    {
+    "text": "Quando eu parecia estar sem rumo, sem prumo, desacreditado. Vem você nos meus pensamentos, os meus olhos se enchem de lágrima e logo o desabafo. Porque tem que ser assim, por que tudo parece distante, mesmo que por um instante 99 por cento me resta 1 por cento de chance. Por quanto mais eu teria de esperar, por quanto tem mais, veria o seu sorriso se distanciar, sendo que ele é quem me inspira, a continuar. Tirei essa prova, ao abraçar-lhe, sentir de perto o seu cheiro, no beijo na sua testa, como sinal de respeito, do que penso e espero um dia repousar nos seus braços, e afogar-me no seu aconchego.🍃",
+    "author": "JH"
+  },
+    {
+    "text": "Onde estou, para aonde vou, quero que esteja comigo, pois difícil é imaginar você longe de mim nessa história, neste meu caminho. Onde estou, para aonde vou, quero sentir o seu abraço, onde me acalmo, onde sinto toda a segurança, mas sem você o que faço. Sentir-me-ia perdido, faminto da sua presença, sem o brilho dos seus olhos a guiar-me, sem uma esperança, de onde estou, e onde chegar. Difícil de entender, difícil de lidar, nesta situação como me expressar, como sinto paz ao ver o seu sorriso, ver esse seu brilho, que por onde passa, deixa marcas, deixa risos.🍃",
+    "author": "JH"
   }
 ]
